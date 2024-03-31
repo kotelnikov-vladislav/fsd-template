@@ -1,5 +1,7 @@
+import './styles/style.scss';
+
 const App = () => {
-    return <main>Hello FSD!</main>;
+    return <main>fsd template</main>;
 };
 
 export default App;
